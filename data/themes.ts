@@ -29,12 +29,11 @@ export const watchThemes: WatchTheme[] = [
     cardBg: '#0a0a0e',
     text: '#e8e0d0',
     muted: '#7a7060',
-    image: '/assets/watches/skmei/skmei-1.png',
+    image: '/assets/watches/skmei/skmei-1.jpg',
     images: [
-      '/assets/watches/skmei/skmei-1.png',
-      '/assets/watches/skmei/skmei-2.jpg',
-      '/assets/watches/skmei/skmei-3.png',
-      '/assets/watches/skmei/skmei-4.png',
+      '/assets/watches/skmei/skmei-1.jpg',
+      '/assets/watches/skmei/skmei-3.jpg',
+      '/assets/watches/skmei/skmei-4.jpg',
     ],
     features: [
       'Premium Stainless Steel',
@@ -59,12 +58,10 @@ export const watchThemes: WatchTheme[] = [
     cardBg: '#0a0d0c',
     text: '#e0e8e4',
     muted: '#6a7a74',
-    image: '/assets/watches/patek/patek-3.jpg',
+    image: '/assets/watches/patek/patek-1.jpg',
     images: [
-      '/assets/watches/patek/patek-3.jpg',
-      '/assets/watches/patek/patek-1.png',
-      '/assets/watches/patek/patek-2.jpg',
-      '/assets/watches/patek/patek-4.png',
+      '/assets/watches/patek/patek-1.jpg',
+      '/assets/watches/patek/patek-4.jpg',
     ],
     badge: 'Master Grade',
     features: [
@@ -91,9 +88,9 @@ export const watchThemes: WatchTheme[] = [
     cardBg: '#0a0c0e',
     text: '#e0e4e8',
     muted: '#6a7a8a',
-    image: '/assets/watches/patek/patek-5.png',
+    image: '/assets/watches/patek/patek-5.jpg',
     images: [
-      '/assets/watches/patek/patek-5.png',
+      '/assets/watches/patek/patek-5.jpg',
     ],
     features: [
       'Quartz Movement',
@@ -119,10 +116,9 @@ export const watchThemes: WatchTheme[] = [
     cardBg: '#0e0c08',
     text: '#e8e4d8',
     muted: '#7a7060',
-    image: '/assets/watches/patek/patek-1.png',
+    image: '/assets/watches/patek/patek-4.jpg',
     images: [
-      '/assets/watches/patek/patek-1.png',
-      '/assets/watches/patek/patek-2.jpg',
+      '/assets/watches/patek/patek-4.jpg',
     ],
     badge: 'On Sale',
     features: [
@@ -149,9 +145,9 @@ export const watchThemes: WatchTheme[] = [
     cardBg: '#0c0b08',
     text: '#e8e4d8',
     muted: '#7a7460',
-    image: '/assets/watches/rlx/rlx-1.png',
+    image: '/assets/watches/rlx/rlx-1.jpg',
     images: [
-      '/assets/watches/rlx/rlx-1.png',
+      '/assets/watches/rlx/rlx-1.jpg',
     ],
     badge: 'On Sale',
     features: [
@@ -175,9 +171,9 @@ export const watchThemes: WatchTheme[] = [
     cardBg: '#0a0806',
     text: '#e0dcd8',
     muted: '#6a6258',
-    image: '/assets/watches/rlx/rlx-2.png',
+    image: '/assets/watches/rlx/rlx-2.jpg',
     images: [
-      '/assets/watches/rlx/rlx-2.png',
+      '/assets/watches/rlx/rlx-2.jpg',
     ],
     features: [
       'Rotating Bezel',
@@ -200,10 +196,10 @@ export const watchThemes: WatchTheme[] = [
     cardBg: '#0a0c0a',
     text: '#e0e8e0',
     muted: '#6a7a6e',
-    image: '/assets/watches/rlx/rlx-3.jpg',
+    image: '/assets/watches/rlx/rlx-1.jpg',
     images: [
-      '/assets/watches/rlx/rlx-3.jpg',
-      '/assets/watches/rlx/rlx-4.jpg',
+      '/assets/watches/rlx/rlx-1.jpg',
+      '/assets/watches/rlx/rlx-2.jpg',
     ],
     features: [
       'GMT Dual Time',
@@ -218,7 +214,7 @@ export const watchThemes: WatchTheme[] = [
     ],
   },
   {
-    name: 'Tsot Leather Chronograph',
+    name: 'Tissot Leather Chronograph',
     collection: 'tissot',
     price: 'Rs.3,999',
     originalPrice: 'Rs.5,500',
@@ -229,9 +225,9 @@ export const watchThemes: WatchTheme[] = [
     cardBg: '#0c0b08',
     text: '#e8e4d8',
     muted: '#7a7460',
-    image: '/assets/watches/tissot/tissot-1.png',
+    image: '/assets/watches/tissot/tissot-1.jpg',
     images: [
-      '/assets/watches/tissot/tissot-1.png',
+      '/assets/watches/tissot/tissot-1.jpg',
     ],
     badge: 'On Sale',
     features: [
@@ -246,7 +242,7 @@ export const watchThemes: WatchTheme[] = [
     ],
   },
   {
-    name: 'Tsot PRX Automatic 38mm',
+    name: 'Tissot PRX Automatic 38mm',
     collection: 'tissot',
     price: 'Rs.17,500',
     accent: '#3a6a8a',
@@ -256,11 +252,11 @@ export const watchThemes: WatchTheme[] = [
     cardBg: '#0a0c0e',
     text: '#e0e4e8',
     muted: '#6a7a84',
-    image: '/assets/watches/tissot/tissot-3.webp',
+    image: '/assets/watches/tissot/tissot-3.jpg',
     images: [
-      '/assets/watches/tissot/tissot-3.webp',
-      '/assets/watches/tissot/tissot-2.png',
-      '/assets/watches/tissot/tissot-4.png',
+      '/assets/watches/tissot/tissot-3.jpg',
+      '/assets/watches/tissot/tissot-2.jpg',
+      '/assets/watches/tissot/tissot-4.jpg',
     ],
     features: [
       'Automatic Movement',
